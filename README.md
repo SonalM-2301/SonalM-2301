@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Sonal Saxena
 
-<!--
-**SonalM-2301/SonalM-2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate Data Analyst & aspiring Data Scientist with a knack for transforming raw data into actionable insights.  
+📊 Skilled in SQL, Python, Tableau, and Excel with a strong understanding of analytics, visualization, and problem-solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Languages:** Python, SQL
+- **Tools & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Data Visualization:** Tableau, Excel
+- **Databases:** MySQL, PostgreSQL
+- **Others:** Colab, Jupyter, PowerPoint, Strong Communication Skills
+
+---
+
+## 📁 Projects
+
+### 📊 Business Performance Dashboard – Tableau Public
+**Self-Initiated | 2025**  
+- Designed an AI analytics dashboard using Tableau.
+- Performed data cleaning, refined data types, and applied geo roles.
+- Built interactive visuals to uncover customer loyalty trends.
+
+### 🛒 Data Analysis for Leading Brazilian Retailer
+**Independent Project | 2025**  
+- Explored retail operations using SQL.
+- Analyzed seasonal trends, order behaviors, and payment data.
+- Proposed data-driven recommendations for marketing and logistics optimization.
+---
+
+## 📬 Contact Me
+
+- 📧 Email: saxena23sonal@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/sonal-mishra-74166758](https://www.linkedin.com/in/sonal-mishra-74166758/)
+- 📍 Location: Ahmedabad, India
+
+> *“In God we trust, all others must bring data.” – W. Edwards Deming*
+
